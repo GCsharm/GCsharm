@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yash Gautam
 - 👀 I’m interested in AI/ML and Cyber Security
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Botosynthesis
+- 💞️ I’m looking to collaborate on GENIE AI
 
 
 <!---
